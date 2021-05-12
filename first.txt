@@ -1,3 +1,6 @@
 はじめてのgit
 
 変更しました.
+
+git add
+git commit
